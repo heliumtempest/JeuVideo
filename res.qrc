@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>Driving_the_Top_Down.mp3</file>
+    </qresource>
+    <qresource prefix="/sfx">
+        <file>laser.wav</file>
+        <file>explosion1.wav</file>
+    </qresource>
+    <qresource prefix="/backgroung">
+        <file>cera.jpg</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>blackjack.png</file>
+        <file>pact_elite.png</file>
+        <file>laser_pulse.png</file>
+    </qresource>
+</RCC>
